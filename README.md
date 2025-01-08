@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://ignorantforce.github.io/XuanYuanYouAdvancedGrammar/">
-    <img src="./cover.jpg" alt="旋元佑进阶语法">
+    <img src="./cover.jpg" style="width: 30%" alt="旋元佑进阶语法">
   </a>
  </div>
 
