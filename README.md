@@ -1,6 +1,6 @@
 # 旋元佑进阶语法 - [在线阅读](https://ignorantforce.github.io/XuanYuanYouAdvancedGrammar/)
 
-<div align="center">
+<div style="text-align: center">
   <a href="https://ignorantforce.github.io/XuanYuanYouAdvancedGrammar/">
     <img src="./cover.jpg" style="width: 30%" alt="旋元佑进阶语法">
   </a>
